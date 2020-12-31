@@ -31,6 +31,7 @@ The function is defined as Python__R_wavelet_Func.py
 
 * def baselineWavelet(Spectrum_data):
 * ...
+* return array(wCoefs),array(backgr),array(corrected)
 
 where Spectrum_data is a one_dimensional data representing spectrum
 And this function returns three numpy arrays
