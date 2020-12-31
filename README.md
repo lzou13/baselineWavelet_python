@@ -16,9 +16,9 @@ bW= importr('baselineWavelet')
 
 This script contains the example program provided in the R baselineWavelet library.
 If it works, it will save three figures in png 
-1. Spectrum
-2. Ridge lines
-3. wavelet coefficient
+1. Spectrum             --  Signal_Bg.png
+2. Ridge lines          --  RidgeList.png
+3. wavelet coefficient  --  WaveletCoeffs.png
 ## 4. Use the function written in python to process your spectrum
 The script contains this function is 
 The function is defined as Python__R_wavelet_Func.py
