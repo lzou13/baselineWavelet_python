@@ -1,5 +1,5 @@
 # baselineWavelet_python
-Implementing baseline correction to spectrum by python using baselineWavelet written in R
+Implementing baseline correction to spectrum by python using baselineWavelet package written in R
 ## 1. Installation of R and baselineWavelet
 In windows, Make sure R is not installed on C disk.
 
