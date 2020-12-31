@@ -10,10 +10,14 @@ Downloading repository: https://pypi.org/project/rpy2/
 or using : pip install rpy2
 ## 3. Run script test.py in this repository
 There are two important step before running the code.
-* import rpy2 to your environment
-from rpy2.robjects.packages import importr
-* import R's package baselineWavelet
-bW= importr('baselineWavelet')
+
+ import rpy2 to your environment
+
+* from rpy2.robjects.packages import importr
+
+ import R's package baselineWavelet
+
+* bW= importr('baselineWavelet')
 
 This script contains the example program provided in the R baselineWavelet library.
 If it works, it will save three figures in png the same as provided in this repository
