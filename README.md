@@ -16,7 +16,7 @@ from rpy2.robjects.packages import importr
 bW= importr('baselineWavelet')
 
 This script contains the example program provided in the R baselineWavelet library.
-If it works, it will save three figures in png 
+If it works, it will save three figures in png the same as provided in this repository
 1. Spectrum             --  Signal_Bg.png
 2. Ridge lines          --  RidgeList.png
 3. wavelet coefficient  --  WaveletCoeffs.png
