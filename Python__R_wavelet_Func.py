@@ -1,4 +1,5 @@
 from rpy2.robjects.packages import importr
+from numpy import *
 # import R's "baselineWavelet" package
 bW= importr('baselineWavelet')
 def baselineWavelet(Spectrum_data):
