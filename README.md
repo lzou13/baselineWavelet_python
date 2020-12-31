@@ -22,9 +22,12 @@ If it works, it will save three figures in png the same as provided in this repo
 3. wavelet coefficient  --  WaveletCoeffs.png
 ## 4. Use the function written in python to process your spectrum
 The script contains this function is 
+
 The function is defined as Python__R_wavelet_Func.py
-def baselineWavelet(Spectrum_data):
-...
+
+* def baselineWavelet(Spectrum_data):
+* ...
+
 where Spectrum_data is a one_dimensional data representing spectrum
 And this function returns three numpy arrays
 1. wavelet coeffecients
