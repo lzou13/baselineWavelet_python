@@ -1,3 +1,4 @@
+import rpy2.robjects as ro
 from rpy2.robjects.packages import importr
 from numpy import *
 # import R's "baselineWavelet" package
