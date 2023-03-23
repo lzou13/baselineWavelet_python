@@ -9,6 +9,7 @@ or use the file provided in this repository.
 * Then install Rstudio to include the baselineWavelet library
 ## 2. Install rpy2 in python
 * The version of python in my computer is 3.7.4
+
 Downloading repository: https://pypi.org/project/rpy2/
 
 or using : 
