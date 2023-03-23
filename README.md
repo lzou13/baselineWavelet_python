@@ -6,6 +6,7 @@ In windows, Make sure R is not installed on C disk.
 For R library of baselineWavelet and its installation, please see: https://github.com/zmzhang/baselineWavelet
 or use the file provided in this repository.
 * Please use R in version 3.6.2
+* Then install Rstudio to include the baselineWavelet library
 ## 2. Install rpy2 in python
 Downloading repository: https://pypi.org/project/rpy2/
 
