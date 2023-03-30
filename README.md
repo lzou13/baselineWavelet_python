@@ -16,7 +16,7 @@ or using :
 
 * pip install rpy2
 ## 3. Run script test.py in this repository
-There are two important step before running the code.
+There are two important steps before running the code.
 
  import rpy2 to your environment
 
