@@ -54,6 +54,8 @@ DOI	https://doi.org/10.1039/D0JA00431F
 
 ## How to cite:
 
+Copy the Bibtex file as below:
+
 @Article{D0JA00431F,
 author ="Zou, Long and Sun, Chen and Wu, Mengting and Zhang, Yuqing and Yue, Zengqi and Xu, Weijie and Shabbir, Sahar and Chen, Fengye and Liu, Bin and Liu, Wenhui and Yu, Jin",
 title  ="Online simultaneous determination of H2O and KCl in potash with LIBS coupled to convolutional and back-propagation neural networks",
